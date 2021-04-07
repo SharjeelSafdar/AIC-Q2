@@ -17,3 +17,7 @@ the students of AIC Batch-8, second quarter.
 👉 Quarter: 2
 
 👉 Instructor: [Anees Ahmad](https://github.com/aneesahmed)
+
+## Assignments Info
+
+[Click here to know more about the assignments.](https://github.com/piaic-official/AI-Q2-learning-resources)
