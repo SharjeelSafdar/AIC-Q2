@@ -4,7 +4,7 @@ AIC is a one year (four quarters) Artificial Intelligence program designed for
 absolute beginners. The course is designed and taught by PIAIC.
 
 This repository contains the solution to the assignments given to
-the students of Batch-8, second quarter.
+the students of AIC Batch-8, second quarter.
 
 ## My Credentials as a PIAIC Student:
 
