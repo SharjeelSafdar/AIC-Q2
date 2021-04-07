@@ -1,4 +1,4 @@
-<h1 align=\"center\">DL Assignment: Car Price Prediction (Regression Problem)</h1>
+<h1 align=\"center\">DL Assignment: Car Price Prediction (Regression)</h1>
 
 ## Problem Statement
 
