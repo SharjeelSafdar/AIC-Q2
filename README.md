@@ -8,7 +8,7 @@ the students of AIC Batch-8, second quarter.
 
 ## My Credentials as a PIAIC Student:
 
-👉 Name: [Mian Muhammad Sharjeel Safdar](../)
+👉 Name: [Mian Muhammad Sharjeel Safdar](https://github.com/SharjeelSafdar/)
 
 👉 Roll No.: PIAIC 106535
 
